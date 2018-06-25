@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Garden Admin</string>
+    <string name="slogan">Administratorski panel Garden Order aplikacije</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="naziv">Naziv narudžbe</string>
+
+    <string name="action_settings">Osvježi</string>
+</resources>
